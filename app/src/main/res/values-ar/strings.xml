@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نوفاتوبي</string>
+    <string name="app_tagline">اكتشف. حمّل. شغّل.</string>
+
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_search">بحث</string>
+    <string name="nav_downloads">التنزيلات</string>
+    <string name="nav_library">المكتبة</string>
+    <string name="nav_player">المشغل</string>
+    <string name="nav_browser">المتصفح</string>
+    <string name="nav_music">الموسيقى</string>
+    <string name="nav_playlists">قوائم التشغيل</string>
+    <string name="nav_history">السجل</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <string name="home_greeting">مرحبًا بك في نوفاتوبي</string>
+    <string name="home_quick_download">تنزيل سريع</string>
+    <string name="home_trending">الرائج</string>
+    <string name="home_recently_viewed">شُوهد مؤخرًا</string>
+    <string name="home_recently_downloaded">تنزيلات حديثة</string>
+    <string name="home_music_section">موسيقى</string>
+    <string name="home_video_section">فيديو</string>
+    <string name="home_popular_platforms">منصات شائعة</string>
+    <string name="home_mini_panel">حالة التنزيل</string>
+    <string name="home_recommended">موصى به لك</string>
+
+    <string name="search_hint">ابحث عن فيديوهات وموسيقى وقنوات…</string>
+    <string name="search_recent">عمليات البحث الأخيرة</string>
+    <string name="search_trending">الرائج الآن</string>
+    <string name="search_clear">مسح</string>
+    <string name="search_filter_video">فيديو</string>
+    <string name="search_filter_audio">صوت</string>
+    <string name="search_filter_playlist">قائمة تشغيل</string>
+    <string name="search_sort_relevance">الصلة</string>
+    <string name="search_sort_date">التاريخ</string>
+    <string name="search_sort_views">المشاهدات</string>
+    <string name="search_suggestions">اقتراحات</string>
+    <string name="search_no_results">لا توجد نتائج</string>
+    <string name="search_browser_fallback">لا توجد واجهة برمجية — سيتم فتح بحث المتصفح</string>
+
+    <string name="downloads_title">التنزيلات</string>
+    <string name="downloads_empty">لا توجد تنزيلات بعد</string>
+    <string name="downloads_status_downloading">قيد التنزيل</string>
+    <string name="downloads_status_completed">مكتمل</string>
+    <string name="downloads_status_failed">فشل</string>
+    <string name="downloads_status_queued">في الانتظار</string>
+    <string name="downloads_status_paused">متوقف</string>
+    <string name="downloads_action_retry">إعادة المحاولة</string>
+    <string name="downloads_action_cancel">إلغاء</string>
+    <string name="downloads_action_pause">إيقاف مؤقت</string>
+    <string name="downloads_action_resume">استئناف</string>
+    <string name="downloads_action_delete">حذف</string>
+    <string name="downloads_action_share">مشاركة</string>
+    <string name="downloads_action_open">فتح</string>
+    <string name="downloads_action_play">تشغيل</string>
+
+    <string name="format_title">اختر الجودة</string>
+    <string name="format_video">فيديو</string>
+    <string name="format_audio">صوت</string>
+    <string name="format_size">الحجم: %1$s</string>
+    <string name="format_resolution">%1$s • %2$s</string>
+    <string name="format_download">تنزيل</string>
+    <string name="format_extracting">استخراج معلومات الوسائط…</string>
+    <string name="format_error">تعذر استخراج الوسائط. تحقق من الرابط.</string>
+    <string name="format_no_video">لا توجد جودات فيديو</string>
+    <string name="format_no_audio">لا توجد جودات صوت</string>
+    <string name="format_best_video">أفضل فيديو (mp4)</string>
+    <string name="format_best_audio">أفضل صوت (mp3)</string>
+
+    <string name="player_play">تشغيل</string>
+    <string name="player_pause">إيقاف مؤقت</string>
+    <string name="player_speed">السرعة</string>
+    <string name="player_volume">مستوى الصوت</string>
+    <string name="player_brightness">السطوع</string>
+    <string name="player_fullscreen">ملء الشاشة</string>
+    <string name="player_exit_fullscreen">إنهاء ملء الشاشة</string>
+    <string name="player_subtitles">ترجمات</string>
+    <string name="player_audio_track">المسار الصوتي</string>
+    <string name="player_quality">الجودة</string>
+    <string name="player_pip">صورة داخل صورة</string>
+    <string name="player_cast">بث</string>
+    <string name="player_skip_forward">تقديم 10 ثوانٍ</string>
+    <string name="player_skip_backward">تأخير 10 ثوانٍ</string>
+    <string name="player_loading">جارٍ التحميل…</string>
+    <string name="player_error">خطأ في التشغيل</string>
+
+    <string name="music_now_playing">يتم التشغيل الآن</string>
+    <string name="music_queue">قائمة الانتظار</string>
+    <string name="music_shuffle">عشوائي</string>
+    <string name="music_repeat">تكرار</string>
+    <string name="music_repeat_all">تكرار الكل</string>
+    <string name="music_repeat_one">تكرار المقطع</string>
+    <string name="music_next">التالي</string>
+    <string name="music_previous">السابق</string>
+    <string name="music_playlists">قوائم التشغيل</string>
+    <string name="music_create_playlist">إنشاء قائمة تشغيل</string>
+    <string name="music_add_to_playlist">إضافة إلى قائمة التشغيل</string>
+
+    <string name="browser_url_hint">ابحث أو أدخل رابطًا</string>
+    <string name="browser_new_tab">علامة تبويب جديدة</string>
+    <string name="browser_bookmarks">الإشارات</string>
+    <string name="browser_history">السجل</string>
+    <string name="browser_share">مشاركة</string>
+    <string name="browser_copy_url">نسخ الرابط</string>
+    <string name="browser_open_external">فتح خارجيًا</string>
+    <string name="browser_send_to_downloader">إرسال إلى التنزيل</string>
+    <string name="browser_desktop_mode">وضع الحاسوب</string>
+    <string name="browser_javascript">جافاسكربت</string>
+    <string name="browser_download_media">تنزيل الوسائط في هذه الصفحة</string>
+    <string name="browser_no_tabs">لا توجد علامات تبويب مفتوحة</string>
+    <string name="browser_home_page">الصفحة الرئيسية</string>
+    <string name="browser_add_bookmark">إضافة إشارة</string>
+    <string name="browser_bookmark_added">تمت إضافة الإشارة</string>
+
+    <string name="settings_title">الإعدادات</string>
+    <string name="settings_theme">السمة</string>
+    <string name="settings_theme_system">حسب النظام</string>
+    <string name="settings_theme_light">فاتح</string>
+    <string name="settings_theme_dark">داكن</string>
+    <string name="settings_quality">جودة الفيديو المفضلة</string>
+    <string name="settings_audio_format">صيغة الصوت المفضلة</string>
+    <string name="settings_wifi_only">التنزيل عبر Wi-Fi فقط</string>
+    <string name="settings_clipboard">كشف الروابط في الحافظة</string>
+    <string name="settings_clear_history">مسح سجل المتصفح</string>
+    <string name="settings_clear_search">مسح سجل البحث</string>
+    <string name="settings_clear_downloads">مسح التنزيلات المكتملة</string>
+    <string name="settings_engine">المحرك</string>
+    <string name="settings_ytdlp_version">إصدار yt-dlp</string>
+    <string name="settings_ffmpeg_version">إصدار FFmpeg</string>
+    <string name="settings_check_update">التحقق من التحديثات</string>
+    <string name="settings_about">حول</string>
+
+    <string name="share_received_title">تم اكتشاف رابط</string>
+    <string name="share_received_message">هل تريد تنزيل هذه الوسائط؟</string>
+    <string name="share_received_open">فتح</string>
+    <string name="share_received_dismiss">تجاهل</string>
+    <string name="clipboard_detected">تم اكتشاف رابط في الحافظة</string>
+    <string name="clipboard_action">استخدم هذا الرابط</string>
+
+    <string name="library_title">المكتبة</string>
+    <string name="library_empty">المكتبة فارغة</string>
+    <string name="library_files">ملفات</string>
+    <string name="library_audio">صوت</string>
+    <string name="library_video">فيديو</string>
+    <string name="library_documents">مستندات</string>
+
+    <string name="common_cancel">إلغاء</string>
+    <string name="common_ok">موافق</string>
+    <string name="common_yes">نعم</string>
+    <string name="common_no">لا</string>
+    <string name="common_save">حفظ</string>
+    <string name="common_delete">حذف</string>
+    <string name="common_rename">إعادة تسمية</string>
+    <string name="common_share">مشاركة</string>
+    <string name="common_loading">جارٍ التحميل…</string>
+    <string name="common_retry">إعادة المحاولة</string>
+    <string name="common_close">إغلاق</string>
+    <string name="common_more">المزيد</string>
+    <string name="common_back">رجوع</string>
+    <string name="common_done">تم</string>
+    <string name="common_unknown">غير معروف</string>
+
+    <string name="notif_channel_downloads">التنزيلات</string>
+    <string name="notif_channel_music">تشغيل الموسيقى</string>
+    <string name="notif_channel_player">مشغل الفيديو</string>
+    <string name="notif_downloading">جارٍ تنزيل %1$s</string>
+    <string name="notif_download_complete">اكتمل التنزيل</string>
+    <string name="notif_download_failed">فشل التنزيل</string>
+    <string name="notif_format">الصيغة: %1$s</string>
+    <string name="notif_progress">%1$d%%</string>
+
+    <string name="platform_youtube">يوتيوب</string>
+    <string name="platform_soundcloud">ساوند كلاود</string>
+    <string name="platform_vimeo">فيميو</string>
+    <string name="platform_twitter">تويتر / X</string>
+    <string name="platform_tiktok">تيك توك</string>
+    <string name="platform_instagram">إنستغرام</string>
+    <string name="platform_facebook">فيسبوك</string>
+    <string name="platform_dailymotion">ديلي موشن</string>
+    <string name="platform_generic">الويب</string>
+</resources>

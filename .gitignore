@@ -1,0 +1,22 @@
+/build
+*/build
+.gradle/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+.kotlin/
+
+# Local keystore (should never be committed)
+*.keystore
+*.jks
+keystore.properties
+app/novatube.keystore
+
+# CI/CD outputs
+app/build/outputs/

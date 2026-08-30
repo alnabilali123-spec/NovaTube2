@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NovaTube</string>
+    <string name="app_tagline">Discover. Download. Play.</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_downloads">Downloads</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_player">Player</string>
+    <string name="nav_browser">Browser</string>
+    <string name="nav_music">Music</string>
+    <string name="nav_playlists">Playlists</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home -->
+    <string name="home_greeting">Welcome to NovaTube</string>
+    <string name="home_quick_download">Quick Download</string>
+    <string name="home_trending">Trending</string>
+    <string name="home_recently_viewed">Recently Viewed</string>
+    <string name="home_recently_downloaded">Recent Downloads</string>
+    <string name="home_music_section">Music</string>
+    <string name="home_video_section">Videos</string>
+    <string name="home_popular_platforms">Popular Platforms</string>
+    <string name="home_mini_panel">Download Status</string>
+    <string name="home_recommended">Recommended for you</string>
+
+    <!-- Search -->
+    <string name="search_hint">Search videos, music, channels…</string>
+    <string name="search_recent">Recent searches</string>
+    <string name="search_trending">Trending now</string>
+    <string name="search_clear">Clear</string>
+    <string name="search_filter_video">Video</string>
+    <string name="search_filter_audio">Audio</string>
+    <string name="search_filter_playlist">Playlist</string>
+    <string name="search_sort_relevance">Relevance</string>
+    <string name="search_sort_date">Date</string>
+    <string name="search_sort_views">Views</string>
+    <string name="search_suggestions">Suggestions</string>
+    <string name="search_no_results">No results found</string>
+    <string name="search_browser_fallback">No API — opening browser search</string>
+
+    <!-- Downloads -->
+    <string name="downloads_title">Downloads</string>
+    <string name="downloads_empty">No downloads yet</string>
+    <string name="downloads_status_downloading">Downloading</string>
+    <string name="downloads_status_completed">Completed</string>
+    <string name="downloads_status_failed">Failed</string>
+    <string name="downloads_status_queued">Queued</string>
+    <string name="downloads_status_paused">Paused</string>
+    <string name="downloads_action_retry">Retry</string>
+    <string name="downloads_action_cancel">Cancel</string>
+    <string name="downloads_action_pause">Pause</string>
+    <string name="downloads_action_resume">Resume</string>
+    <string name="downloads_action_delete">Delete</string>
+    <string name="downloads_action_share">Share</string>
+    <string name="downloads_action_open">Open</string>
+    <string name="downloads_action_play">Play</string>
+
+    <!-- Format selection -->
+    <string name="format_title">Choose quality</string>
+    <string name="format_video">Video</string>
+    <string name="format_audio">Audio</string>
+    <string name="format_size">Size: %1$s</string>
+    <string name="format_resolution">%1$s • %2$s</string>
+    <string name="format_download">Download</string>
+    <string name="format_extracting">Extracting media info…</string>
+    <string name="format_error">Could not extract media. Please verify the URL.</string>
+    <string name="format_no_video">No video formats available</string>
+    <string name="format_no_audio">No audio formats available</string>
+    <string name="format_best_video">Best video (mp4)</string>
+    <string name="format_best_audio">Best audio (mp3)</string>
+
+    <!-- Player -->
+    <string name="player_play">Play</string>
+    <string name="player_pause">Pause</string>
+    <string name="player_speed">Speed</string>
+    <string name="player_volume">Volume</string>
+    <string name="player_brightness">Brightness</string>
+    <string name="player_fullscreen">Fullscreen</string>
+    <string name="player_exit_fullscreen">Exit fullscreen</string>
+    <string name="player_subtitles">Subtitles</string>
+    <string name="player_audio_track">Audio track</string>
+    <string name="player_quality">Quality</string>
+    <string name="player_pip">Picture in Picture</string>
+    <string name="player_cast">Cast</string>
+    <string name="player_skip_forward">Skip forward 10s</string>
+    <string name="player_skip_backward">Skip backward 10s</string>
+    <string name="player_loading">Loading…</string>
+    <string name="player_error">Playback error</string>
+
+    <!-- Music Player -->
+    <string name="music_now_playing">Now playing</string>
+    <string name="music_queue">Queue</string>
+    <string name="music_shuffle">Shuffle</string>
+    <string name="music_repeat">Repeat</string>
+    <string name="music_repeat_all">Repeat all</string>
+    <string name="music_repeat_one">Repeat one</string>
+    <string name="music_next">Next</string>
+    <string name="music_previous">Previous</string>
+    <string name="music_playlists">Playlists</string>
+    <string name="music_create_playlist">Create playlist</string>
+    <string name="music_add_to_playlist">Add to playlist</string>
+
+    <!-- Browser -->
+    <string name="browser_url_hint">Search or enter URL</string>
+    <string name="browser_new_tab">New tab</string>
+    <string name="browser_bookmarks">Bookmarks</string>
+    <string name="browser_history">History</string>
+    <string name="browser_share">Share</string>
+    <string name="browser_copy_url">Copy URL</string>
+    <string name="browser_open_external">Open externally</string>
+    <string name="browser_send_to_downloader">Send to Downloader</string>
+    <string name="browser_desktop_mode">Desktop mode</string>
+    <string name="browser_javascript">JavaScript</string>
+    <string name="browser_download_media">Download media on this page</string>
+    <string name="browser_no_tabs">No tabs open</string>
+    <string name="browser_home_page">Home</string>
+    <string name="browser_add_bookmark">Add bookmark</string>
+    <string name="browser_bookmark_added">Bookmark added</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_system">Follow system</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_quality">Preferred video quality</string>
+    <string name="settings_audio_format">Preferred audio format</string>
+    <string name="settings_wifi_only">Download over Wi-Fi only</string>
+    <string name="settings_clipboard">Detect URLs in clipboard</string>
+    <string name="settings_clear_history">Clear browser history</string>
+    <string name="settings_clear_search">Clear search history</string>
+    <string name="settings_clear_downloads">Clear completed downloads</string>
+    <string name="settings_engine">Engine</string>
+    <string name="settings_ytdlp_version">yt-dlp version</string>
+    <string name="settings_ffmpeg_version">FFmpeg version</string>
+    <string name="settings_check_update">Check for updates</string>
+    <string name="settings_about">About</string>
+
+    <!-- Share intent / clipboard -->
+    <string name="share_received_title">Shared URL detected</string>
+    <string name="share_received_message">Do you want to download this media?</string>
+    <string name="share_received_open">Open</string>
+    <string name="share_received_dismiss">Dismiss</string>
+    <string name="clipboard_detected">Clipboard URL detected</string>
+    <string name="clipboard_action">Use this URL</string>
+
+    <!-- Library -->
+    <string name="library_title">Library</string>
+    <string name="library_empty">Your library is empty</string>
+    <string name="library_files">Files</string>
+    <string name="library_audio">Audio</string>
+    <string name="library_video">Video</string>
+    <string name="library_documents">Documents</string>
+
+    <!-- Common -->
+    <string name="common_cancel">Cancel</string>
+    <string name="common_ok">OK</string>
+    <string name="common_yes">Yes</string>
+    <string name="common_no">No</string>
+    <string name="common_save">Save</string>
+    <string name="common_delete">Delete</string>
+    <string name="common_rename">Rename</string>
+    <string name="common_share">Share</string>
+    <string name="common_loading">Loading…</string>
+    <string name="common_retry">Retry</string>
+    <string name="common_close">Close</string>
+    <string name="common_more">More</string>
+    <string name="common_back">Back</string>
+    <string name="common_done">Done</string>
+    <string name="common_unknown">Unknown</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_downloads">Downloads</string>
+    <string name="notif_channel_music">Music playback</string>
+    <string name="notif_channel_player">Video player</string>
+    <string name="notif_downloading">Downloading %1$s</string>
+    <string name="notif_download_complete">Download complete</string>
+    <string name="notif_download_failed">Download failed</string>
+    <string name="notif_format">Format: %1$s</string>
+    <string name="notif_progress">%1$d%%</string>
+
+    <!-- Platforms -->
+    <string name="platform_youtube">YouTube</string>
+    <string name="platform_soundcloud">SoundCloud</string>
+    <string name="platform_vimeo">Vimeo</string>
+    <string name="platform_twitter">Twitter / X</string>
+    <string name="platform_tiktok">TikTok</string>
+    <string name="platform_instagram">Instagram</string>
+    <string name="platform_facebook">Facebook</string>
+    <string name="platform_dailymotion">Dailymotion</string>
+    <string name="platform_generic">Web</string>
+</resources>
